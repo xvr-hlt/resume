@@ -1,0 +1,341 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "projects": "Publications, patents, open source contributions",
+    "awards": "Honours"
+  },
+  "basics": {
+    "name": "Xavier Holt",
+    "email": "holt.xavier@gmail.com",
+    "phone": "+61 432 908 935",
+    "website": "https://www.linkedin.com/in/xavier-holt/",
+    "location": {
+      "address": "Sydney, Australia"
+    }
+  },
+  "education": [
+    {
+      "institution": "Scrum Alliance",
+      "location": "Sydney, Australia",
+      "area": "",
+      "startDate": "2021",
+      "endDate": "2021",
+      "gpa": "",
+      "studyType": "Certified Scrum Master"
+    },
+    {
+      "institution": "Macquarie University",
+      "location": "Sydney, Australia",
+      "studyType": "Master of Research (Science and Engineering).",
+      "area": "Master's thesis in Natural Language Processing.",
+      "gpa": "94% (thesis), 93% (overall). Top 1% of students.",
+      "startDate": "2017",
+      "endDate": "2018"
+    },
+    {
+      "institution": "The University of Sydney",
+      "studyType": "Bachelor of Science (Advanced Mathematics) (Honours).",
+      "location": "Sydney, Australia",
+      "area": "Computer Science/Statistics.",
+      "gpa": "93% (thesis), first Class Honours. Top 1% of students.",
+      "startDate": "2013",
+      "endDate": "2016"
+    }
+  ],
+  "work": [
+    {
+      "location": "Sydney, Australia",
+      "website": "",
+      "startDate": "Dec 2019",
+      "endDate": "Present",
+      "highlights": [
+        "Technical lead responsible for delivering annalise.ai Enterprise CXR x-ray model. This model processes 25% of all x-rays in Australia (also deployed internationally). Diagnostic assistant predicting 127 findings with performance equal to or greater than a trained radiologist.",
+        "One of first 20 hires (now 200+), helped build ML infrastructure and models from the ground up.",
+        "Built infrastructure and platform for building ML models across the organisation.",
+        "50/50 management/individual contributor.",
+        "Led a cross-disciplinary unit team of 10 people, including software developers, applied ML engineers, clinical specialists and product.",
+        "Led novel model development squad, implementing SotA techniques and deriving new approaches in problem space.",
+        "Published novel research in journals and patents.",
+        "Helped productionise and deploy product both in-cloud and on-device.",
+        "Hired and managed direct reports. Ran sprint and scrum processes.",
+        "Strong general backend development expertise. Responsible for delivery of a wide variety of components in micro-service architecture (containers, HTTP endpoints, queuing interfaces etc.)."
+      ],
+      "company": "harrison.ai",
+      "position": "Lead ML Engineer"
+    },
+    {
+      "highlights": [
+        "Founding team member of commercialised, productionised machine learning API platform  -- initially as sole machine learning expert on team.",
+        " Core technical role responsible for both machine learning stack (CV/NLP deep learning models/traditional ML) as well as end-to-end productionisation (automated testing, API endpoint management, computational efficiency).",
+        "Helped grow and scale team from 5-15 members, product from zero to two million+ paid requests per month; helped secure funding of several million dollars."
+      ],
+      "position": "Co-Founder and Senior ML Engineer",
+      "company": "Sypht",
+      "startDate": "Dec 2017",
+      "endDate": "Dec 2019",
+      "location": "Sydney, Australia"
+    },
+    {
+      "highlights": [
+        "Developed and scaled machine learning start-ups for large commercial partners.",
+        "Worked with leadership team to coordinate hiring and growth of machine learning team.",
+        "One of the founding team members of 'Sypht' (above) -- a successful NLP venture.",
+        "One of only 5% of employees globally to receive highest band in annual performance review."
+      ],
+      "company": "BCG Digital Ventures",
+      "position": "Data Scientist",
+      "location": "Sydney, Australia",
+      "startDate": "Dec 2017",
+      "endDate": "Aug 2018"
+    },
+    {
+      "highlights": [
+        ""
+      ],
+      "company": "Zip Money",
+      "position": "Data Scientist",
+      "location": "Sydney, Australia",
+      "startDate": "Jul 2017",
+      "endDate": "Dec 2017"
+    },
+    {
+      "highlights": [
+        ""
+      ],
+      "company": "Hugo",
+      "position": "NLP Researcher & Software Engineer",
+      "location": "Sydney, Australia",
+      "startDate": "Nov 2015",
+      "endDate": "Aug 2016"
+    },
+    {
+      "highlights": [
+        ""
+      ],
+      "company": "The University of Sydney",
+      "position": "Tutor",
+      "location": "Sydney, Australia",
+      "startDate": "Mar 2015",
+      "endDate": "Nov 2017"
+    },
+    {
+      "highlights": [
+        null
+      ],
+      "company": "The University of Sydney",
+      "position": "Junior Analyst",
+      "location": "Sydney, Australia",
+      "startDate": "Jan 2014",
+      "endDate": "Jan 2015"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "Large scale distributed model training",
+        "multimodal models",
+        "contrastive learning."
+      ],
+      "name": "Deep learning"
+    },
+    {
+      "keywords": [
+        "2D/3D multi-input CNN models",
+        "vision transformer models",
+        "image to text models."
+      ],
+      "name": "Computer Vision"
+    },
+    {
+      "keywords": [
+        "Transformer models",
+        "text to image models",
+        "large scale language model training."
+      ],
+      "name": "NLP"
+    },
+    {
+      "keywords": [
+        "Kubernetes",
+        "docker",
+        "AWS",
+        "slurm"
+      ],
+      "name": "ML Ops"
+    },
+    {
+      "keywords": [
+        "Tabular models",
+        "xgboost, lightgbm",
+        "sklearn."
+      ],
+      "name": "Traditional ML"
+    },
+    {
+      "keywords": [
+        "Distributed data processing",
+        "input visualisation",
+        "SQL/NoSQL databases."
+      ],
+      "name": "Data Engineering"
+    },
+    {
+      "keywords": [
+        "Scrum ceremonies",
+        "recruitment",
+        "people management."
+      ],
+      "name": "Management"
+    }
+  ],
+  "projects": [
+    {
+      "keywords": [
+        null
+      ],
+      "name": "Machine Learning Augmented Interpretation of Chest X-rays: A Systematic Review",
+      "description": "Diagnostics",
+      "url": "2023"
+    },
+    {
+      "keywords": [
+        ""
+      ],
+      "name": "Do comprehensive deep learning algorithms suffer from hidden stratification? A retrospective study on pneumothorax detection in chest radiography",
+      "description": "British Medical Journal Publishing Group.",
+      "url": "2021"
+    },
+    {
+      "keywords": [
+        ""
+      ],
+      "name": "(Patent) Systems and methods for automated analysis of medical images",
+      "description": "AU2021289232A1",
+      "url": "2021"
+    },
+    {
+      "keywords": [
+        ""
+      ],
+      "name": "(Patent) Method and system for automated generation of text captions from medical images",
+      "description": "WO2022006621A1",
+      "url": "2021"
+    },
+    {
+      "keywords": [
+        ""
+      ],
+      "name": "Effect of a comprehensive deep-learning model on the accuracy of chest x-ray interpretation by radiologists: a retrospective, multireader multicase study",
+      "description": "The Lancet Digital Health 3 (8), e496-e506.",
+      "url": "2020"
+    },
+    {
+      "keywords": [
+        ""
+      ],
+      "name": "Probabilistic models of relational implication",
+      "description": "arXiv preprint arXiv:1907.12048",
+      "url": "2019"
+    },
+    {
+      "keywords": [
+        ""
+      ],
+      "name": "Extracting structured data from invoices",
+      "description": "published as part of the Australasian Language Technology Association conference proceedings.",
+      "url": "2018"
+    },
+    {
+      "keywords": [
+        null
+      ],
+      "url": "2018",
+      "description": "published as part of the Transactions of the Association for Computational Linguistics.",
+      "name": "Learning typed entailment graphs with global soft constraints"
+    },
+    {
+      "keywords": [
+        ""
+      ],
+      "url": "2017",
+      "description": "provided a public, crowd-sourced dataset for the relational implication problem.",
+      "name": "(Dataset) Relational Implication"
+    },
+    {
+      "keywords": [
+        null
+      ],
+      "url": "2016",
+      "description": "published as part of the Australasian Language Technology Association conference proceedings.",
+      "name": "Presenting a New Dataset for the Timeline Generation Problem"
+    },
+    {
+      "keywords": [
+        null
+      ],
+      "description": "provided a public, crowd-sourced dataset for the timeline generation problem.",
+      "url": "2016",
+      "name": "(Dataset) Timeline Generation"
+    }
+  ],
+  "awards": [
+    {
+      "date": "2017-2021",
+      "awarder": "Various",
+      "title": "Hackathons",
+      "summary": "Harrison.ai internal hackathon 2021, 1st place; Melbourne University Business Analytics Datathon 2017, 5th place; Sydney Unearthed Hackathon 2017, 2nd place & People's Choice; Macquarie University Data Science Challenge 2017, 4th place."
+    },
+    {
+      "title": "Research Training Pathway Scholarship",
+      "date": "2017",
+      "summary": "Competitive scholarship awarded on academic merit.",
+      "awarder": "Macquarie University"
+    },
+    {
+      "title": "Microsoft Research Asia Prize for Multimedia Technologies",
+      "awarder": "Microsoft",
+      "date": "2016",
+      "summary": "Awarded to the student with the most outstanding performance in senior units of study in the field of multimedia technologies and computer vision."
+    },
+    {
+      "title": "Appen Butler Hill Scholarship for Excellence in Computational Linguistics",
+      "awarder": "Appen Butler Hill",
+      "date": "2016",
+      "summary": "Awarded to the top student undertaking an Honours project in Computational Linguistics."
+    },
+    {
+      "title": "Human Centred Technology Research Scholarship",
+      "date": "2015",
+      "summary": "Research scholarship offered for project in Natural language processing.",
+      "awarder": "Sydney University"
+    },
+    {
+      "title": "Data61 Summer Research Scholarship",
+      "awarder": "Data61",
+      "date": "2015",
+      "summary": "Research scholarship offered for project in non-parametric Bayesian Statistics."
+    },
+    {
+      "title": "Vice Chancellor's Recognition",
+      "date": "2014",
+      "summary": "Awarded and presented by the University Vice Chancellor for exceptional academic performance and overcoming adversity.",
+      "awarder": "Office of the Vice Chancellor"
+    },
+    {
+      "title": "Undergraduate High Honour Roll",
+      "summary": "Awarded by the School of IT for achieving a high-distinction average across all subjects within the school.",
+      "date": "2013, '14, '15, '16",
+      "awarder": "Sydney University"
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "skills",
+    "work",
+    "education",
+    "awards",
+    "projects"
+  ]
+}
